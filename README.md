@@ -25,4 +25,5 @@ Exploratory data analysis of taxi rides in Chicago.
 - `data/` — SQL query results used as input for the analysis
   - `trips_by_company.csv` — number of trips per taxi company
   - `avg_trips_by_dropoff_neighborhood.csv` — average trips per dropoff neighborhood
+  - `weather_conditions.csv` — ride durations and weather conditions for Loop to O'Hare trips on Saturdays
 - `requirements.txt` — project dependencies
