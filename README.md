@@ -23,6 +23,6 @@ Exploratory data analysis of taxi rides in Chicago.
 
 - `EDA.ipynb` — exploratory data analysis notebook
 - `data/` — SQL query results used as input for the analysis
-  - `project_sql_result_01.csv` — number of trips per taxi company
-  - `project_sql_result_04.csv` — average trips per dropoff neighborhood
+  - `trips_by_company.csv` — number of trips per taxi company
+  - `avg_trips_by_dropoff_neighborhood.csv` — average trips per dropoff neighborhood
 - `requirements.txt` — project dependencies
